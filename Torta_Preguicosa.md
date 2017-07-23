@@ -1,4 +1,4 @@
-# Torta Preguiça
+# Torta Preguiçosa
 
 ## Ingredientes
 
