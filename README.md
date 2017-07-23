@@ -1,5 +1,5 @@
 # Menu
-* [Doces](doces.md)
+* Doces
   * [Bolo de Cenoura](Bolo_de_Cenoura.md)
   * [Bolo de Fúba Cremoso](Bolo_de_Fuba_Cremoso.md)
   * [Pau a Pick](Pau_a_Pick.md)
